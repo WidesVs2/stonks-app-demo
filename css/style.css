@@ -1,0 +1,7 @@
+#content a {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+#content a:hover {
+    color: darkblue !important;
+}
