@@ -2,3 +2,19 @@
 
 # Stonks App Demo
 This is a small prototype for an app to be used to search for company's stock information. Further features will be added over time. Thanks for checking this out!
+
+## How to configure
+Open a terminal in desired directory then run these codes
+
+    git clone https://www.github.com/WidesVs2/stonks-app-demo
+    mkdir config
+    cd config/
+    touch default.json
+
+Open new JSON file and add a property of "STOCK_API_KEY" with your API key from Alpha vantage.
+
+
+## Liscence
+MIT- usage limited to conditions of an MIT Liscence. Feel free to clone and use as you wish!
+## Credits
+This app was designed and built by WidesVs2. Thanks for checking it out!
