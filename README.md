@@ -14,7 +14,7 @@ Open a terminal in desired directory then run these codes
 Open new JSON file and add a property of "STOCK_API_KEY" with your API key from Alpha vantage.
 
 
-## Liscence
-MIT- usage limited to conditions of an MIT Liscence. Feel free to clone and use as you wish!
+## Licence
+MIT- usage limited to conditions of an MIT Licence. Feel free to clone and use as you wish!
 ## Credits
 This app was designed and built by WidesVs2. Thanks for checking it out!
