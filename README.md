@@ -11,7 +11,7 @@ Open a terminal in desired directory then run these codes
     cd config/
     touch default.json
 
-Open new JSON file and add a property of "STOCK_API_KEY" with your API key from Alpha vantage.
+Open new JSON file and add a property of "STOCK_API_KEY" with your API key from [Alpha vantage.](https://www.alphavantage.co/)
 
 
 ## Licence
